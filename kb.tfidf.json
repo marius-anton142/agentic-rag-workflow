@@ -1,0 +1,28 @@
+{
+  "docs": [
+    {
+      "id": "01_termene",
+      "text": "3 zile lucratoare pentru student activi\r\n\r\nminim 5 zile pentru absolventi (caz de arhiva)\r\n\r\n"
+    },
+    {
+      "id": "02_canal_solicitare",
+      "text": "solicitare exclusiv prin formular\r\n\r\nsolicitarile prin e-mail nu se iau in considerare\r\n\r\n"
+    },
+    {
+      "id": "03_motive_interzise",
+      "text": "nu se emit adeverinte pentru:\r\n\r\n\\- CAS si medic de familie\r\n\r\n\\- subventii de cazare\r\n\r\n"
+    },
+    {
+      "id": "04_reguli_completare",
+      "text": "se completeaza cu diacritice, text simplu\r\n\r\nse bifeaza motiv\r\n\r\ndaca nu e in lista, se explica clar\r\n\r\nun formular separate per motiv\r\n\r\n"
+    },
+    {
+      "id": "05_motive_permise",
+      "text": "Motive permise:\r\n\r\n\r\n\r\n\\- atestare semestre privind calitatea de bursier\r\n\r\n\\- pensie urmas\r\n\r\n\\- pensie alimentara\r\n\r\n\\- bursa granicereasca\r\n\r\n\\- mobilitate de studiu CCI\r\n\r\n\\- angajare\r\n\r\n\\- atestare calitate student pentru camin din afara UBB\r\n\r\n\\- alocatie dintr-o tara europeana\r\n\r\n\\- bursa privata\r\n\r\n\\- Societatea Muzeului Ardelean\r\n\r\n\\- echivalare disciplina\r\n\r\n\\- Work \\& Travel\r\n\r\n\\- deducere de impozit (la locul de munca al mamei)\r\n\r\n\\- deducere de impozit (la locul de munca al tatalui)\r\n\r\n\\- scutire taxe utilitati si alte indatoriri administrative\r\n\r\n\\- Other\r\n\r\n"
+    },
+    {
+      "id": "06_ridicare",
+      "text": "ridicare exclusiv de la Biroul de Informatii Litere UBB, luni-vineri, 9-12\r\n\r\n"
+    }
+  ]
+}
